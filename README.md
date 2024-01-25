@@ -1,1 +1,1 @@
-# uzum_shop
+# Uzum Shop Clone
